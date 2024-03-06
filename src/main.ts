@@ -1,4 +1,4 @@
 import { chatspammer } from "./chatspammer"
 
-console.log("starting Click Notifier...");
+console.log("Starting Click Notifier...");
 chatspammer();//(the chat spam is only visible to you)
